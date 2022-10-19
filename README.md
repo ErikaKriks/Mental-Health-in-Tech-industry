@@ -5,7 +5,7 @@ In the past year awareness of the relationship between workplace and mental heal
 
 
 
-### Tecgnologies used:
+### Technologies used:
 * Python
 * Pandas
 * Numpy
